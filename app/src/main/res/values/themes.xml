@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.Aether" parent="Theme.Leanback">
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>
